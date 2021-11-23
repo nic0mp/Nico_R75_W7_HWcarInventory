@@ -52,6 +52,7 @@ const useStyles = makeStyles({
         position: 'absolute',
     },
     main_text:{
+        fontFamily: 'Helvetica',
         textAlign: 'center',
         position: 'relative',
         top: '50%',
