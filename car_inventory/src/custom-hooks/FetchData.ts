@@ -13,3 +13,4 @@ export const useGetData = ( ) => {
         handleDataFetch();
     }, [])
     return {droneData, getData:handleDataFetch}
+}
